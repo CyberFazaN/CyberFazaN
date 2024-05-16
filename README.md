@@ -1,4 +1,4 @@
-[![Telegram channel](https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/CyberFazaN)](https://t.me/CyberFazaN) <img src="https://komarev.com/ghpvc/?username=cyberfazan&label=Profile%20views&color=0e75b6&style=flat" alt="cyberfazan"/>
+[![Telegram channel](https://img.shields.io/endpoint?url=https://runkit.io/damiankrawczyk/telegram-badge/branches/master?url=https://t.me/NByteOSC)](https://t.me/NByteOSC) <img src="https://komarev.com/ghpvc/?username=cyberfazan&label=Profile%20views&color=0e75b6&style=flat" alt="cyberfazan"/>
 
 <div align="center">
 <h2>Technologies & Languages</h2>
